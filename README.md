@@ -1,162 +1,147 @@
-# ITcxUA
 
-### Web Development • DevOps • AI Integrations • CRM/ERP • Automation
 
-ITcxUA is a technology-focused digital ecosystem delivering web platforms, infrastructure, automation, and AI-powered solutions for modern businesses.
+<h1 align="center">ITcxUA</h1>
+<h3 align="center">Web Development • DevOps • AI Integrations • CRM/ERP • Automation</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Web%20Development-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Integrations-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CRM%20%2F%20ERP-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-0A0A0A?style=for-the-badge" />
+<p align="center">
+  Technology-focused digital ecosystem for scalable web platforms, infrastructure, business automation, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <a href="https://it.cx.ua"><img src="https://img.shields.io/badge/Website-it.cx.ua-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0004-2823-4084"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-B2B%20%7C%20Infrastructure%20%7C%20Automation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-065F46?style=for-the-badge" />
 </p>
 
 ---
 
-## About ITcxUA
+## About
 
-ITcxUA combines engineering, infrastructure, automation, and digital product development into one integrated ecosystem.
+ITcxUA combines engineering, infrastructure, automation, and digital product implementation into one practical ecosystem.
 
-We build and support:
+We design and deliver solutions where development, operations, and business logic work together:
 
 - corporate websites and landing pages
-- e-commerce platforms
+- e-commerce systems
 - CRM / ERP integrations
 - hosting and server infrastructure
 - deployment and DevOps workflows
-- AI-enhanced tools and internal automation systems
-- Telegram bots, dashboards, and custom business utilities
+- AI-enhanced automation tools
+- Telegram bots, dashboards, and internal business utilities
 
-Our approach is practical: technology must solve business tasks, improve operations, and create scalable digital assets.
+> Technology should not be isolated from business.  
+> It must improve operations, reduce friction, and create scalable digital assets.
 
 ---
 
 ## Core Directions
 
-### Web & Product Development
-Development of business websites, landing pages, portals, service platforms, admin panels, and custom web solutions.
+### 🌐 Web & Product Development
+Business websites, service platforms, portals, admin panels, landing pages, and custom web systems.
 
-### DevOps & Infrastructure
-Linux servers, Nginx, Docker, deployments, backups, monitoring, hardening, access management, and production support.
+### ⚙️ DevOps & Infrastructure
+Linux servers, Nginx, Docker, deployments, monitoring, backup strategies, access control, and production support.
 
-### CRM / ERP / Business Automation
-Process automation, internal logic, integrations, data flows, dashboards, operational systems, and workflow optimization.
+### 🧩 CRM / ERP / Automation
+Business process automation, system integrations, dashboards, internal workflows, and operational logic.
 
-### AI Integrations
-AI-powered assistants, automation scenarios, API integrations, support tools, content workflows, and internal productivity systems.
+### 🤖 AI Integrations
+AI assistants, API integrations, support tools, content workflows, and automation-driven productivity systems.
 
-### Marketing Tech
-Lead capture systems, analytics integrations, form routing, Telegram/email delivery, conversion-focused technical implementations.
+### 📈 Marketing Tech
+Lead routing, form integrations, analytics implementation, Telegram/email delivery, conversion-oriented technical solutions.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- PHP
-- Python
-- Node.js
-
-### CMS / Platforms
-- WordPress
-- WooCommerce
-- OpenCart
-- WHMCS
-
-### Databases
-- MySQL
-- PostgreSQL
-
-### DevOps / Infrastructure
-- Linux
-- Nginx
-- Docker
-- Cloudflare
-- Git / GitHub
-- CI/CD pipelines
-
-### Automation / Integrations
-- REST API
-- Telegram Bots
-- Google integrations
-- AI API integrations
-- Internal admin tooling
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCart-0D76BF?style=flat-square&logo=opencart&logoColor=white" />
+  <img src="https://img.shields.io/badge/WHMCS-203864?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20API%20Integrations-7C3AED?style=flat-square" />
+</p>
 
 ---
 
 ## What We Build
 
-- corporate websites
-- service landing pages
-- online stores
-- internal dashboards
-- CRM / ERP modules
+- business websites and multi-page platforms
+- service landing pages and lead systems
+- online stores and catalog solutions
+- CRM / ERP modules and process integrations
 - server and hosting setups
-- deployment scripts
-- Telegram bot integrations
-- AI-assisted workflows
-- custom business automation tools
+- deployment scripts and infrastructure utilities
+- Telegram integrations and bot workflows
+- internal dashboards and control panels
+- AI-assisted business tools
+- custom automation systems
 
 ---
 
 ## Featured Repositories
 
-> Replace these with your strongest pinned repositories.
+> Replace the placeholders below with your real strongest repositories.
 
-- **Deployment / Infrastructure Toolkit** — scripts and configurations for deployment, server setup, and technical operations
-- **WordPress Automation Modules** — custom plugins, integrations, and automation logic for WordPress-based systems
-- **Telegram Business Integrations** — bots and notification flows for forms, leads, support, and operations
-- **Hosting / Server Utilities** — practical tools for hosting, panel setup, backups, and infrastructure management
-- **CRM / ERP Connectors** — business logic and integration modules for workflow centralization
-- **Internal Tools / MVPs** — custom utilities, dashboards, and experiments for real business use cases
+| Repository | Purpose |
+|---|---|
+| `itcxua-devops-toolkit` | Deployment, server setup, maintenance automation |
+| `itcxua-wp-automation` | WordPress modules, hooks, integrations, admin tooling |
+| `itcxua-telegram-integrations` | Telegram workflows for lead routing, alerts, and support |
+| `devolaris-hosting-stack` | Hosting utilities, provisioning logic, service operations |
+| `crm-erp-connectors` | Business integrations and workflow centralization |
+| `itcxua-internal-tools` | Internal utilities, MVPs, dashboards, experiments |
 
 ---
 
-## Workflow Principles
+## Delivery Principles
 
 - business-oriented engineering
-- scalable architecture
-- practical implementation
-- modular logic
-- maintainable systems
-- transparent structure
-- security-aware delivery
+- scalable and maintainable architecture
+- modular implementation
+- transparent system logic
+- infrastructure awareness
+- security-conscious delivery
+- practical result over unnecessary complexity
 
 ---
 
-## Open to Collaboration
-
-We are interested in collaboration in the following areas:
-
-- web platforms and business websites
-- DevOps and infrastructure support
-- CRM / ERP implementation and customization
-- AI integrations and workflow automation
-- technical consulting and digital transformation
-
----
-
-## Contact
-
-- Website: https://it.cx.ua
-- ORCID: https://orcid.org/0009-0004-2823-4084
-
----
-
-## Mission
-
-To create integrated digital solutions where development, infrastructure, automation, and business logic work in synergy.
-
----
+## GitHub Stats
 
 <p align="center">
-  <sub>ITcxUA — one ecosystem for web, infrastructure, automation, and digital growth.</sub>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itcxua&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itcxua&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itcxua&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Operational Focus
+
+```text
+Web Development      ████████████████████
+DevOps / Infra       ██████████████████
+Automation           ███████████████████
+CRM / ERP Logic      ████████████████
+AI Integrations      █████████████████
+Marketing Tech       ███████████████
